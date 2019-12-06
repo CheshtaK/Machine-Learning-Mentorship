@@ -74,6 +74,10 @@ At the end of each week you will be given a set of tasks to complete. This could
 2. [Article/Tutorial](https://www.programiz.com/python-programming/tutorial)
 3. [Lecture](youtube.com/watch?v=woVJ4N5nl_s)
 
+- Python for Machine Learning
+
+1. [Lecture](https://www.youtube.com/watch?v=KNNKJGi-F4s)
+
 ### Tasks : 
 
 Submit your codes in Python in the Task 1 folder.
@@ -91,21 +95,21 @@ Submit your codes in Python in the Task 1 folder.
 
 - NumPy
 
-[Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/2_Intro%20to%20numpy.ipynb)
+1. [Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/2_Intro%20to%20numpy.ipynb)
 
-[Lecture](https://www.youtube.com/watch?v=8JfDAm9y_7s)
+2. [Lecture](https://www.youtube.com/watch?v=8JfDAm9y_7s)
 
 - Pandas
 
-[Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/3_Intro%20to%20pandas.ipynb)
+1. [Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/3_Intro%20to%20pandas.ipynb)
 
-[Lecture](https://www.youtube.com/watch?v=B42n3Pc-N2A)
+2. [Lecture](https://www.youtube.com/watch?v=B42n3Pc-N2A)
  
 - Matplotlib : 
 
-[Tutorial](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
+1. [Tutorial](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
 
-[Article/Blog](https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596)
+2. [Article/Blog](https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596)
     
      
 ### Tasks : 
@@ -122,41 +126,46 @@ Submit your code in the Task 2 folder.
 
 2.2 Use [this](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/stocks.csv) dataset and draw a line plot similar to that as shown [here](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/line_plot.PNG)
  
-  ### WEEK 3
-- Introduction to Machine learning :
-  https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0
-- Introduction to Supervised and Unsupervised Learning :
-  https://medium.com/@saahil1292/machine-learning-101-supervised-vs-unsupervised-41312b504053
-- Linear regression : 
-  https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
-  
-   1. Gradient Descent 
-   2. Update rule for squared error
-   
-  ### Multiveriate Regression : 
-  
-   1. Boston Housing Prices  
-   2. Maximum likelihood estimation 
-   3. K-fold cross validation 
-  
-   ### Task : Air Quality Prediction
-   
-   
- ## WEEK 4
  
-   ### Introduction to Logistic Regression :
-  https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
-  1. Likelihood estimation and loss 
-  2. Gradient Descent Update Rule 
-        https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+### WEEK 3
+  
+1. [Introduction to Machine learning](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
+  
+2. [Introduction to Supervised and Unsupervised Learning](https://medium.com/@saahil1292/machine-learning-101-supervised-vs-unsupervised-41312b504053)
 
- ### Task : Diabetes Classification
+3. [Linear regression](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
+   
+4. [Multivariate Regression](https://www.youtube.com/watch?v=J_LnPL3Qg70)
+
+5. [Lecture](https://www.youtube.com/watch?v=QfOsnjxvJco&t=2s) (Recommended)
+
+
+### Tasks : 
+
+Submit your code in the Task 3 folder. 
+
+[Air Quality Prediction](https://www.kaggle.com/chiranjeevbit/air-quality-prediction)
  
-  ### K-Nearest Neighbours : 
- https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7
-  1. Introduction 
-  2. Implementation using MNIST Handwritten Digits 
-  
+ 
+### WEEK 4
+ 
+1. [Introduction to Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
+
+2. [Lecture](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
+
+3. [Linear Regression vs Logistic Regression](https://www.youtube.com/watch?v=OCwZyYH14uw)
+
+4. [K Nearest Neighbours](https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7)
+
+### Tasks : 
+
+Submit your code in the Task 4 folder. 
+
+[Diabetes Prediction](https://www.kaggle.com/uciml/pima-indians-diabetes-database/data)
+
+4.1 Using Logistic Regression
+
+4.2 Using KNN
   
  ## WEEK 5
  
