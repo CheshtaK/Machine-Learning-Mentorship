@@ -129,7 +129,7 @@ Download [this](https://s3-ap-southeast-1.amazonaws.com/he-public-data/datafiles
 
 3. Check if there are missing values in the data and replace them with "NaN"
 
-4. 
+4. Use [this](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/stocks.csv) dataset and draw a line plot similar to that as shown [here](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/line_plot.PNG)
  
   ### WEEK 3
 - Introduction to Machine learning :
