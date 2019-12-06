@@ -80,6 +80,7 @@ At the end of each week you will be given a set of tasks to complete. This could
 
 ### Tasks : 
 
+
 Submit your codes in Python in the Task 1 folder.
 
 1.1 [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
@@ -167,7 +168,8 @@ Submit your code in the Task 4 folder.
 
 4.2 Using KNN
   
- ## WEEK 5
+ 
+### WEEK 5
  
  
  ### Introduction to K-Means Clustering
