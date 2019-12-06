@@ -53,8 +53,7 @@ At the end of each week you will be given a set of tasks to complete. This could
 
 ### WEEK 1
 
-
-- Basics of Python:
+Basics of Python:
 
     a. Python Fundamentals
     
@@ -68,15 +67,16 @@ At the end of each week you will be given a set of tasks to complete. This could
     
     f. Python Functions
     
-    g. Python Data Structures :
+    g. Python Data Structures
+    
 
 1. [Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/1_Intro%20to%20Python.ipynb)  
 2. [Article/Tutorial](https://www.programiz.com/python-programming/tutorial)
 3. [Lecture](youtube.com/watch?v=woVJ4N5nl_s)
 
-- Python for Machine Learning
+Python for Machine Learning
 
-1. [Lecture](https://www.youtube.com/watch?v=KNNKJGi-F4s)
+   1. [Lecture](https://www.youtube.com/watch?v=KNNKJGi-F4s)
 
 ### Tasks : 
 
@@ -96,21 +96,21 @@ Submit your codes in Python in the Task 1 folder.
 
 - NumPy
 
-1. [Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/2_Intro%20to%20numpy.ipynb)
+    1. [Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/2_Intro%20to%20numpy.ipynb)
 
-2. [Lecture](https://www.youtube.com/watch?v=8JfDAm9y_7s)
+    2. [Lecture](https://www.youtube.com/watch?v=8JfDAm9y_7s)
 
 - Pandas
 
-1. [Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/3_Intro%20to%20pandas.ipynb)
+    1. [Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/3_Intro%20to%20pandas.ipynb)
 
-2. [Lecture](https://www.youtube.com/watch?v=B42n3Pc-N2A)
+    2. [Lecture](https://www.youtube.com/watch?v=B42n3Pc-N2A)
  
 - Matplotlib : 
 
-1. [Tutorial](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
+    1. [Tutorial](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
 
-2. [Article/Blog](https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596)
+    2. [Article/Blog](https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596)
     
      
 ### Tasks : 
