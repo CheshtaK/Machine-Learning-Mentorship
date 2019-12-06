@@ -69,22 +69,12 @@ At the end of each week you will be given a set of tasks to complete. This could
     f. Python Functions
     
     g. Python Data Structures :
-         
-      - Lists
-      
-      - Sets
-      
-      - Tuples
-      
-      - Strings
-      
-      - Dictionary
 
 1. [Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/1_Intro%20to%20Python.ipynb)  
 2. [Article/Tutorial](https://www.programiz.com/python-programming/tutorial)
 3. [Lecture](youtube.com/watch?v=woVJ4N5nl_s)
 
-- ### Tasks : 
+### Tasks : 
 
 Submit your codes in Python in the Task 1 folder.
 
@@ -114,22 +104,23 @@ Submit your codes in Python in the Task 1 folder.
 - Matplotlib : 
 
 [Tutorial](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
+
 [Article/Blog](https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596)
     
      
-- ### Tasks : 
+### Tasks : 
 
 Submit your code in the Task 2 folder. 
 
-Download [this](https://s3-ap-southeast-1.amazonaws.com/he-public-data/datafiles19cdaf8.zip) dataset and perform the following tasks:
+2.1 Download [this](https://s3-ap-southeast-1.amazonaws.com/he-public-data/datafiles19cdaf8.zip) dataset and perform the following tasks:
 
-1. Load the data (both train and test)
+   1. Load the data (both train and test)
 
-2. Print the shape and display the data (using .head())
+   2. Print the shape and display the data (using .head())
 
-3. Check if there are missing values in the data and replace them with "NaN"
+   3. Check if there are missing values in the data and replace them with "NaN"
 
-4. Use [this](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/stocks.csv) dataset and draw a line plot similar to that as shown [here](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/line_plot.PNG)
+2.2 Use [this](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/stocks.csv) dataset and draw a line plot similar to that as shown [here](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/line_plot.PNG)
  
   ### WEEK 3
 - Introduction to Machine learning :
