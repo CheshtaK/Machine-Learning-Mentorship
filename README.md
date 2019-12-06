@@ -91,6 +91,7 @@ Submit your codes in Python in the Task 1 folder.
 
 1.4 [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem) (Optional)
     
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ### WEEK 2
 
@@ -127,7 +128,8 @@ Submit your code in the Task 2 folder.
 
 2.2 Use [this](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/stocks.csv) dataset and draw a line plot similar to that as shown [here](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/Dataset/line_plot.PNG)
  
- 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### WEEK 3
   
 1. [Introduction to Machine learning](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
@@ -147,7 +149,8 @@ Submit your code in the Task 3 folder.
 
 [Air Quality Prediction](https://www.kaggle.com/chiranjeevbit/air-quality-prediction)
  
- 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### WEEK 4
  
 1. [Introduction to Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
@@ -168,7 +171,8 @@ Submit your code in the Task 4 folder.
 
 4.2 Using KNN
   
- 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### WEEK 5
  
  
