@@ -40,9 +40,9 @@ Since every one prefers a different approach to learning, we're gonna try our be
 
 1. Articles/Blogs: This will give you a detailed explanation for each topic alongwith the relevant mathematics.
 
-2. Code: If you prefer to learn by looking at the codebase, we'll link open source implementations of the algorithm (where appropriate).
+2. Code: If you prefer to learn by looking at the codebase, we'll link practical implementations of the topic(wherever appropriate).
 
-3. Lectures: We'll link free online YouTube lectures.
+3. Lectures: We'll link free online YouTube lectures (wherever appropriate).
 
 The recommendation would be to either use Lectures or Articles to get a solid grasp of the conceptual details, and to use the Code as a reference during the assignment. Please note that we don't tolerate any plagiarism.
 
@@ -80,43 +80,56 @@ At the end of each week you will be given a set of tasks to complete. This could
       
       - Dictionary
 
-1. [Article and Code]()  
+1. [Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/1_Intro%20to%20Python.ipynb)  
+2. [Article/Tutorial](https://www.programiz.com/python-programming/tutorial)
+3. [Lecture](youtube.com/watch?v=woVJ4N5nl_s)
 
-#### Task : Submitting problems on Hackerrank and CodeChef and submit links to your solutions
+- ### Tasks : 
 
+Submit your codes in Python in the Task 1 folder.
+
+1.1 [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
+
+1.2 [Word Order](https://www.hackerrank.com/challenges/word-order/problem)
+
+1.3 [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)
+
+1.4 [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem) (Optional)
+    
 
 ### WEEK 2
 
-- NumPy:
- 
-     a. NumPy basics
-     
-     b. Random Generators 
-     
-     c. Stastical Computation 
-     
-     d. Linear algebra - matrices 
-     
-     e. Norms of Vectors 
-     
-- Pandas : Pandas Basics
+- NumPy
+
+[Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/2_Intro%20to%20numpy.ipynb)
+
+[Lecture](https://www.youtube.com/watch?v=8JfDAm9y_7s)
+
+- Pandas
+
+[Article and Code](https://github.com/CheshtaK/Machine-Learning-Mentorship/blob/master/3_Intro%20to%20pandas.ipynb)
+
+[Lecture](https://www.youtube.com/watch?v=B42n3Pc-N2A)
  
 - Matplotlib : 
- 
-     a. Line plots  
+
+[Tutorial](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
+[Article/Blog](https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596)
+    
      
-     b. Scatter plots 
-     
-     c. Bar graphs  
-     
-     d. Normal Distribution
-     
-1. Numpy - [Article and Code]()
-2. Pandas - [Article and Code]()
-3. Matplotlib
-     
- ### Task : Numpy,Pandas Exercise practices
- 
+- ### Tasks : 
+
+Submit your code in the Task 2 folder. 
+
+Download [this](https://s3-ap-southeast-1.amazonaws.com/he-public-data/datafiles19cdaf8.zip) dataset and perform the following tasks:
+
+1. Load the data (both train and test)
+
+2. Print the shape and display the data (using .head())
+
+3. Check if there are missing values in the data and replace them with "NaN"
+
+4. 
  
   ### WEEK 3
 - Introduction to Machine learning :
