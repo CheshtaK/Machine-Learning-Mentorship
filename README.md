@@ -10,7 +10,7 @@ This is the repository that contains all the material/code required to get start
 
 4. All your code will be pushed to GitHub, so if you haven't already, create a GitHub account. Fork and clone this repository and create your respective folders (refer the sample folder with my name).
 
-5. Create a README.md in your folder where you can keep track of your progress over the next month. The mentors will be using the README.md as a progress tracker.
+5. Create a README.md in your folder where you can keep track of your progress over the next month. The mentors will be using the README.md as a progress tracker. (Refer the sample README.md given)
 
 Don't be afraid to ask any questions (however irrelevant you think it may be). The mentors are here to help you every step of the way.
 
