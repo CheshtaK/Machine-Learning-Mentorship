@@ -175,7 +175,10 @@ Submit your code in the Task 4 folder.
 
 ### WEEK 5
  
- 
-- Introduction to K-Means Clustering
+Introduction to K-Means Clustering
+
+1. [Article/Blog](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
+
+2. [Article](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/) (A bit long but quite useful)
  
 - Task : Extracting Dominant Colours
