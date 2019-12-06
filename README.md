@@ -176,10 +176,6 @@ Submit your code in the Task 4 folder.
 ### WEEK 5
  
  
- ### Introduction to K-Means Clustering
- 1. implementing E step 
- 2. implementing M step
- 3. Understanding Loss , Coordinate Ascent 
- 4. k-mean ++ Making Better Initialisation
+- Introduction to K-Means Clustering
  
- ### Task : Extracting Dominant Colours
+- Task : Extracting Dominant Colours
