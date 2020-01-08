@@ -221,3 +221,19 @@ _Features_
 **Target Variable**
 
 - `income` : Income Class (<=50K, >50K)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+### After the programme
+
+Machine Learning is a vast field and since the mentorship programme was limited to 4/5 weeks we covered only the basic algorithms. Below are listed some other important algorithms. I've provided a basic introduction/implementation blog for each. However you can go ahead and explore these topics further.
+
+(To be updated: Blogs)
+- Decision Trees and Random Forest
+- Perceptrons and Neural Network
+- Artificial Neural Network
+- Convolutional Neural Network
+- Transfer Learning
+- Recurrent Neural Network
+- Generative Adversarial Networks
+- Deep Convolutional GAN's (DCGANs)
