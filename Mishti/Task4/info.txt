@@ -1,0 +1,3 @@
+2 parts of the task are submitted separately as 'Task4_1.ipynb' and 'Task4_2.ipynb'
+The first notebook contains Logistic Regression using sklearn
+The 2nd notebook contains prediction using KNN as a classifier problem and as a regression problem
