@@ -228,24 +228,24 @@ _Features_
 
 Machine Learning is a vast field and since the mentorship programme was limited to 4/5 weeks we covered only the basic algorithms. Below are listed some other important algorithms. I've provided a basic introduction/implementation blog for each. However you can go ahead and explore these topics further.
 
-- Decision Trees and Random Forest
+Decision Trees and Random Forest
 
 1. [Introductory Blog](https://towardsdatascience.com/decision-trees-and-random-forests-df0c3123f991)
 2. [Implementation](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)
 3. [In-depth](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 
-- Perceptrons and Neural Network
+Perceptrons and Neural Network
 
 1. [Blog](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
 2. [In-depth](https://www.simplilearn.com/what-is-perceptron-tutorial)
 
-- Artificial Neural Network
+Artificial Neural Network
 
 1. [Blog](https://towardsdatascience.com/introduction-to-artificial-neural-networks-ann-1aea15775ef9)
 2. [Implementation](https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
 3. [In-depth](https://www.simplilearn.com/how-to-train-artificial-neural-network-tutorial)
 
-- Convolutional Neural Network
+Convolutional Neural Network
 
 1. [Blog 1](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 2. [Blog 2](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
