@@ -195,7 +195,7 @@ Submit your code in the Task 5 folder.
 
 **Goal** : To precisely predict individuals’ income using data collected from the 1994 U.S. Census. Your goal is to build a model that accurately predicts whether an individual makes more than $50,000.
 
-**Dataset** : [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Census+Income)
+**Dataset** : [UCI Machine Learning Repository](https://drive.google.com/file/d/1wNiEvfx_-dtMQfZlM5hosqvK8Uq3B3NS/view?usp=sharing)
 
 **Dataset Description** : This dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper “Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid”, by Ron Kohavi.
 
