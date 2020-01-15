@@ -185,7 +185,7 @@ Support Vector Machine
 
 1. [Article](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
 
-2. [Code](analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+2. [Code](https://analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
 
 3. [Lecture](https://www.youtube.com/watch?v=TtKF996oEl8)
 
