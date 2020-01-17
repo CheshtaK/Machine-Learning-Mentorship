@@ -250,9 +250,25 @@ Convolutional Neural Network
 1. [Blog 1](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 2. [Blog 2](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
 
-- Transfer Learning
+Transfer Learning
 
+1. [Blog 1](https://towardsdatascience.com/what-is-transfer-learning-8b1a0fa42b4)
+2. [Blog 2](https://towardsdatascience.com/what-is-transfer-learning-8b1a0fa42b4)
+3. [In-depth](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 
-- Recurrent Neural Network
-- Generative Adversarial Networks
-- Deep Convolutional GAN's (DCGANs)
+Recurrent Neural Network
+
+1. [Blog](https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912)
+2. [In-depth and Implementation](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/)
+
+Generative Adversarial Networks
+
+1. [Blog](https://pathmind.com/wiki/generative-adversarial-network-gan)
+2. [In-depth](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
+
+Deep Convolutional GAN's (DCGANs)
+
+1. [Blog 1](https://medium.com/@jonathan_hui/gan-dcgan-deep-convolutional-generative-adversarial-networks-df855c438f)
+2. [Blog 2](https://towardsdatascience.com/dcgans-deep-convolutional-generative-adversarial-networks-c7f392c2c8f8)
+3. [Implementation](https://towardsdatascience.com/implementing-a-generative-adversarial-network-gan-dcgan-to-draw-human-faces-8291616904a)
+4. [Tutorial and Implementation](https://www.tensorflow.org/tutorials/generative/dcgan)
